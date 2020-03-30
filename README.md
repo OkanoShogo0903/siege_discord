@@ -1,0 +1,2 @@
+# siege_discord
+Discordのチャンネルで今日の勝敗数を出します
